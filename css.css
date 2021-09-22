@@ -1,0 +1,82 @@
+body{
+    background:linear-gradient( to right top,#33ccff,purple );
+    border: 30px solid lightgrey;
+    margin: 0%;
+    text-align: center;
+    
+}
+.form{
+    width: 280px;
+    padding: 15px;
+    position: absolute;
+    margin: 80 500 100 500;
+    text-align: center;
+    border-color:white;
+    background-color: white;
+    text-align: center;
+    border-radius: 4px;
+    box-shadow: 10px 5px 7px black;
+    
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 1000;
+    color: black;
+}
+.yoyo{
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    text-align: left;
+    fill: none;
+    width: 250px;
+    margin-top:10px ;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+}
+.service{
+    font-weight: bold;
+    color: black;
+    border-right: hidden;
+    border-top: hidden;
+    border-left: hidden;
+    width: 250px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+}
+
+.budget{
+    font-weight: bold;
+    color: black;
+    border-right: hidden;
+    border-top: hidden;
+    border-left: hidden;
+    width: 250px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    padding-bottom: 8px;
+}
+#submit{
+    border-radius: 23px;
+    width: 250px;
+    padding: 20px;
+    background:linear-gradient( to left,#33ccff,purple );
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.td{
+    font-size: 12px;
+    font-color: grey;;
+}
+#message{
+    border-left: hidden;
+    border-right: hidden;
+    border-top: hidden;
+    width: 250px;
+    padding-bottom: 8px;
+
+}
